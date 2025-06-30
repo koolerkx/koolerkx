@@ -18,18 +18,18 @@
 
 ## 🚀 Projects | プロジェクト
 
-- **dark-traveller-24-app**  
+- [**dark-traveller-24-app**](https://github.com/koolerkx/dark-traveller-24-app)
   - PWA, React + Ionic, Firebase Auth & Firestore, Leaflet.js, QR checkpoints  
   - PWA対応、React + Ionic、Firebase認証 & Firestore、Leaflet.js、QRチェック
 
-- **sns-fake-content** *(Undergraduate Graduation Project)*  
+- [**sns-fake-content** *(Undergraduate Graduation Project)*](https://github.com/koolerkx/sns-fake-content)
   - Transformer training, React dashboard, Chrome plugin, MongoDB  
   - 大学卒業プロジェクト、Transformerモデル訓練、Reactダッシュボード、Chromeプラグイン、MongoDB
 
-- **bgca-typing-game**  
+- [**bgca-typing-game**](https://github.com/koolerkx/bgca-typing-game) ([Demo](https://kooler-game.github.io/bgca-typing-game/))
   - Unity C# typing game / Unity C# タイピングゲーム
 
-- **VTC_ITE3006Project**  
+- [**VTC_ITE3006Project**](https://github.com/koolerkx/VTC_ITE3006Project) ([Demo](https://ite3006.koolerkx.com/))
   - First HTML, CSS, JS project (homework) with much effort  
   - 初めてのHTML・CSS・JSプロジェクト、学生時代の課題、頑張りました
 
