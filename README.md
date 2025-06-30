@@ -1,10 +1,9 @@
-# KOOLER FAN
+# KOOLER 🇭🇰 🇯🇵
 
-> Hong Kong 🇭🇰 and Japan 🇯🇵
+<img src="https://github.com/user-attachments/assets/c3bb4038-8529-4a79-a4de-bd60beff1b50" width="100%" />
 
-- Native Cantonese / 広東語ネイティブ
-- Fluent in English & Japanese / 英語・日本語流暢
-
+- Native Cantonese / English / Chinese
+  
 ---
 
 ## 💼 Tech Skillset | 技術スキル
@@ -42,8 +41,3 @@
 - Aspiring game developer / ゲーム開発者を目指す
 - Learning DirectX & C++ / DirectX と C++ を学習中
 
----
-
-## 📫 Contact
-
-- GitHub: [koolerkx](https://github.com/koolerkx)
