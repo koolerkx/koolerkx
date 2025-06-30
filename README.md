@@ -45,4 +45,3 @@
 ## 📫 Contact
 
 - GitHub: [koolerkx](https://github.com/koolerkx)
-- Email: kooler.fan@example.com
