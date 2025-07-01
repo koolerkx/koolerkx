@@ -8,6 +8,8 @@
 
 ## 💼 Tech Skillset | 技術スキル
 
+I have experienced the following / 以下の技術でプロジェクトをやったことある:
+
 - **Languages / 言語**: ***TypeScript***, ***C++***, ***Python***, JavaScript, Java, C#, PHP, R
 - **Frameworks / フレームワーク**: ***React***, React Native, Next.js, Ionic, Node.js (Express), Flask, FastAPI, Laravel
 - **Styling / スタイリング**: Bootstrap, Tailwind, HTML, CSS
