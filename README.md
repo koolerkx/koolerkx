@@ -29,7 +29,7 @@ I have experienced the following / 以下の技術でプロジェクトをやっ
   - Transformer training, React dashboard, Chrome plugin, MongoDB  
   - 大学卒業プロジェクト、Transformerモデル訓練、Reactダッシュボード、Chromeプラグイン、MongoDB
 
-- [**unity-bgca-typing-game**](https://github.com/koolerkx/unity-bgca-typing-game) ([Demo](https://kooler-game.github.io/unity-bgca-typing-game/))
+- [**unity-bgca-typing-game**](https://github.com/koolerkx/unity-bgca-typing-game) ([Demo](https://kooler-game.github.io/bgca-typing-game/))
   > Unity C# typing game / Unity C# タイピングゲーム
 
 - [**VTC_ITE3006Project**](https://github.com/koolerkx/VTC_ITE3006Project) ([Demo](https://ite3006.koolerkx.com/))
